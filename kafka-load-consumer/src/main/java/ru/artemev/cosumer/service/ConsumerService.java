@@ -1,5 +1,5 @@
 package ru.artemev.cosumer.service;
 
 public interface ConsumerService {
-    void takeMessageFromKafka(String message);
+  void takeMessageFromKafka(String message);
 }
